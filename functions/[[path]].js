@@ -2,16 +2,16 @@
 let 快速订阅访问入口 = ['auto'];
 let addresses = [];
 let addressesapi = [
-    'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/GB.txt?token=jinhuiyi',
-	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/HK.txt?token=jinhuiyi',
-	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/JP.txt?token=jinhuiyi',
-	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/KR.txt?token=jinhuiyi',
-	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/NL.txt?token=jinhuiyi',
-	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/NZ.txt?token=jinhuiyi',
-	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/PL.txt?token=jinhuiyi',
-	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/SG.txt?token=jinhuiyi',
-	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/TW.txt?token=jinhuiyi',
-	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/US.txt?token=jinhuiyi',
+    'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/GB.txt?token=jinhuiyi'，
+	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/HK.txt?token=jinhuiyi'，
+	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/JP.txt?token=jinhuiyi'，
+	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/KR.txt?token=jinhuiyi'，
+	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/NL.txt?token=jinhuiyi'，
+	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/NZ.txt?token=jinhuiyi'，
+	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/PL.txt?token=jinhuiyi'，
+	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/SG.txt?token=jinhuiyi'，
+	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/TW.txt?token=jinhuiyi'，
+	'https://git-siku.pages.dev/jackWANG707/yxip/refs/heads/main/US.txt?token=jinhuiyi'，
 ];
 
 let addressesnotls = [];
